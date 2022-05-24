@@ -8,9 +8,10 @@ description: ""
 
 
 <style>
-	table, th, td { 
+	table { 
 	border: 1px solid black;
 }
+
 </style>
 <table style="width:100%">
   <tr>
