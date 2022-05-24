@@ -5,4 +5,4 @@ links:
   - title: Example Page
     url: /example-page/
   - title: hello
-    url: /hello
+    collection: hello
