@@ -5,6 +5,18 @@ description: ""
 ---
 ![](/images/isomer-logo.svg)[Ways to get hungry](https://www.youtube.com/watch?v=lpFAg9LuVqc)
 
+<html>
+<head>
+<style>
+table, td, tr { 
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+</style>
+</head>
+
+<body>
+
 <table>
   <tr>
     <td>one</td>
@@ -22,10 +34,5 @@ description: ""
     <td>blue</td>
   </tr>
 </table>
-
-<style>
-table, td, tr { 
-	border: 1px solid black;
-	border-collapse: collapse;
-}
-</style>
+</body>
+</html>
