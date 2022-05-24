@@ -3,20 +3,15 @@ title: Content
 permalink: /content
 description: ""
 ---
-![](/images/isomer-logo.svg)[Ways to get hungry](https://www.youtube.com/watch?v=lpFAg9LuVqc)
+![](/images/isomer-logo.svg)
+[How to get hungry](https://www.youtube.com/watch?v=lpFAg9LuVqc)
 
-<html>
-<head>
+
 <style>
-table, td, tr { 
+	table, th, td { 
 	border: 1px solid black;
-	border-collapse: collapse;
 }
 </style>
-</head>
-
-<body>
-
 <table style="width:100%">
   <tr>
     <td>one</td>
@@ -34,5 +29,3 @@ table, td, tr {
     <td>blue</td>
   </tr>
 </table>
-</body>
-</html>
