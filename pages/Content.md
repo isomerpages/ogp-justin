@@ -17,7 +17,7 @@ table, td, tr {
 
 <body>
 
-<table>
+<table style="width:100%">
   <tr>
     <td>one</td>
     <td>two</td>
